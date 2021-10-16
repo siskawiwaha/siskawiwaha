@@ -1,7 +1,7 @@
-### Hi there 👋 Siska Wiwaha
+### Hi there 👋 I'm Siska Wiwaha
 <hr>
 
-I'm a Beginner | Front End Web Developer <br>
+<h1>I'm a Beginner | Front End Web Developer</h1> <br>
 
 
 -🌱 I’m currently learning Javascript and web development<br>
