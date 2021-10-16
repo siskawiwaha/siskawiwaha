@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Siska Wiwaha
-<hr>
+
 
 <h1>I'm a Beginner | Front End Web Developer</h1> <br>
 
